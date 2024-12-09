@@ -1,5 +1,5 @@
 # Vortex-patch-examples
-Here are some vortex-patch examples for the 2D impressible Euler equation.
+Here are some vortex-patch examples for the 2D incompressible Euler equation.
 
 Vorticity: $\omega := \nabla \times \mathbf{u}$;
 
